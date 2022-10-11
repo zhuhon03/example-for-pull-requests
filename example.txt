@@ -1,1 +1,1 @@
-This is an example.txt file created in the original main branch.
+CONFLICTING CHANGE
